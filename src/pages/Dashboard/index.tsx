@@ -153,13 +153,13 @@ const Dashboard: React.FC = () => {
                 name: "Entradas",
                 value: totalGains,
                 percent: percentGains ? percentGains : 0, 
-                color: '#E44C4E'
+                color: '#F7931B'
             },
             {
                 name: "Saídas",
                 value: totalExpenses,
                 percent: percentExpenses ? percentExpenses : 0, 
-                color: '#F7931B'
+                color: '#E44C4E'
             },
         ];
 
