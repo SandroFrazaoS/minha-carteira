@@ -1,46 +1,39 @@
-# Getting Started with Create React App
+<div align="center" >
+  <img src="./docs/assets/logo.png" width="200">
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Dashboard desenvolvido em **ReactJs** com **TypeScript** inteiramente componentizado com **componentes puros**.
 
-In the project directory, you can run:
+<div align="center">
+  <p>Curso Udemy - React e TypeScript: Desenvolvendo um Dashboard</p>
+  <p>Instrutor - Rodrigo Gonçalves Santana</p>
+</div>
 
-### `yarn start`
+<div align="center" >
+  <img src="./docs/assets/minhacarteirapreview.gif">
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Não há banco de dados. Os dados são carregados de 2 arquivos que contém arrays simulando os repositórios de dados.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Layout & Componentes Responsivos
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<div align="center" >
+  <img src="./docs/assets/resposiveview.png">
+</div>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [x] Link do prototipo desenvolvido no [**Figma**](https://www.figma.com/file/nOGmUkhcINJt6nd57R4ENu/Untitled?node-id=0%3A1).
 
-### `yarn eject`
+### Layout & Componentes Responsivos
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [x] Para os gráficos, foi utilizada a bibliteca [**Recharts**](http://recharts.org/en-US) que é opensource.
+- [x] Para efeito de número crescendo eu utilizei o [**React CountUp**](https://www.npmjs.com/package/react-countup).
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<div align="center">
+  <small>Sandro - 2021</small>
+</div>
